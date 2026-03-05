@@ -8,6 +8,11 @@ I enjoy working across the stack — from backend systems to mobile applications
 
 🌱 Learning: SwiftUI and system design
 
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com/in/yourprofile  
+Email: nilyssadubya@gmail.com
+
 
 ## 🛠 Tech Stack
 
